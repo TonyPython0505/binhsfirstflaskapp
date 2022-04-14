@@ -256,7 +256,7 @@ Rtree==0.9.7
 s3transfer==0.5.0
 scikit-image==0.18.1
 scikit-learn==0.24.1
-scipy==1.6.2
+scipy==1.8.0rc4
 Scrapy==2.5.1
 seaborn==0.11.1
 selenium==4.0.0
