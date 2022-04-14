@@ -1,7 +1,7 @@
 from datetime import datetime
 from werkzeug.security import generate_password_hash, check_password_hash
-from app import db, login
 from flask_login import UserMixin
+from genesis import db
 
 class User(UserMixin, db.Model):
   id = db.Column(db.Integer, primary_key = True)
@@ -20,7 +20,7 @@ class User(UserMixin, db.Model):
         return '<User {}>'.format(self.username)
 
 
-class Post():
+class Post(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     city = db.Column(db.String(140))
     country = db.Column(db.String(140))
