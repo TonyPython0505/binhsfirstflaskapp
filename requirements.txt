@@ -287,7 +287,7 @@ SQLAlchemy==1.4.7
 sqlparse==0.4.2
 statsmodels==0.13.2
 sympy==1.8
-tables==3.6.1
+tables==3.7.0
 tblib==1.7.0
 terminado==0.9.4
 testpath==0.4.4
