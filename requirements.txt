@@ -1,6 +1,6 @@
 ago==0.0.93
 alabaster==0.7.12
-anaconda-client==1.7.2
+anaconda-client==1.1.1
 anaconda-navigator==2.1.4
 anaconda-project==0.9.1
 anyio==2.2.0
