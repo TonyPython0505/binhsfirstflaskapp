@@ -48,7 +48,7 @@ cloudpickle==1.6.0
 clyent==1.2.1
 colorama==0.4.3
 conda==3.0.6
-conda-build==3.21.8
+conda-build==2.1.5
 conda-content-trust==0+unknown
 conda-package-handling==1.8.1
 conda-repo-cli==1.0.4
