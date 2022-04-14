@@ -45,7 +45,7 @@ chardet==3.0.4
 chromedriver-binary==95.0.4638.17.0
 click==7.1.2
 cloudpickle==1.6.0
-clyent==1.2.2
+clyent==1.2.1
 colorama==0.4.3
 conda==4.12.0
 conda-build==3.21.8
