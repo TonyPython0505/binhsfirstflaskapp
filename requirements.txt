@@ -33,7 +33,7 @@ bleach==3.3.0
 bokeh==2.3.2
 boto==2.49.0
 botocore==1.21.62
-Bottleneck==1.3.2
+Bottleneck==1.3.4
 branca==0.4.2
 brotlipy==0.7.0
 bs4==0.0.1
